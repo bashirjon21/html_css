@@ -1,0 +1,27 @@
+a{ 
+	color: #808080;
+}
+
+a:visited{
+	color: #800000;
+}
+
+#content{
+	background: #F0F0F0 ; 
+}
+
+#first{
+	background: #FFFFCC;
+}
+
+#second{
+	background: #FFCCCC;
+}
+
+#third{
+	background: #CCFFCC;
+}
+
+#fourth{
+	background: #CCCCFF;
+}
