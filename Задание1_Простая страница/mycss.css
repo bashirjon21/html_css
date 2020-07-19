@@ -1,0 +1,38 @@
+body {
+    background-color: #ffffff;
+    margin: 10px;
+    background-image: url(images/fon_01.gif);
+   }
+
+h2 {
+    font-size: 30px;  
+    font-family: Times;
+    color: #060378;
+    font-style: inherit;
+   }
+
+p {
+    font-size: 18px;  
+    color: #000000;  
+    margin-top: 0;
+    margin-right: 20px;  
+   }
+
+.par {
+	text-align: right;
+	
+   }
+
+#pic {
+	margin: 20px; 
+	width: 300px;
+	float: right;
+	
+   }
+
+
+#content {
+	width: 100%;
+	margin: 10px;
+
+}
